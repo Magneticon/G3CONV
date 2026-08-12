@@ -43,6 +43,7 @@ GWC.WriteLine("   {0} -%ISCUDA% -i \"{1}\" -acodec libmp3lame -strict experiment
 - Output format: jpg
 - Pixel format: argb
 - Maximal Resolution: 640x480
+- Metadata are removed
 
 FFMPEG command:
 
