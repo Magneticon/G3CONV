@@ -3,7 +3,7 @@ Multimedia converter for 3G phones
 
 Converts picture/audio/video format to compatible formats used in 3G phones (i.e. those of Sony Ericsson).
 
-Program works in Windows 2000 and up. Requires .NET framework 3.5
+Program works in Windows 2000 and newer. Requires .NET framework 3.5
 
 Note: ffmpeg.exe executable must be in the same directory as G3CONV.exe (obtain the FFMPEG binary from the ffmpeg project). And input files in non-English characters are not supported by the program.
 
