@@ -1,0 +1,5 @@
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\3GCONV\G3CONV\G3CONV\bin\x64\Debug\G3CONV.exe
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\3GCONV\G3CONV\G3CONV\bin\x64\Debug\G3CONV.pdb
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\3GCONV\G3CONV\G3CONV\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\3GCONV\G3CONV\G3CONV\obj\x64\Debug\G3CONV.exe
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\3GCONV\G3CONV\G3CONV\obj\x64\Debug\G3CONV.pdb

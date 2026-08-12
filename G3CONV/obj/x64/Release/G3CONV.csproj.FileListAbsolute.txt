@@ -1,0 +1,14 @@
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\3GCONV\G3CONV\G3CONV\bin\x64\Release\G3CONV.exe
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\3GCONV\G3CONV\G3CONV\bin\x64\Release\G3CONV.pdb
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\3GCONV\G3CONV\G3CONV\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\3GCONV\G3CONV\G3CONV\obj\x64\Release\G3CONV.exe
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\3GCONV\G3CONV\G3CONV\obj\x64\Release\G3CONV.pdb
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\G3CONV\G3CONV\G3CONV\obj\x64\Release\G3CONV.exe
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\G3CONV\G3CONV\G3CONV\obj\x64\Release\G3CONV.pdb
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\G3CONV\G3CONV\G3CONV\bin\x64\Release\G3CONV.exe
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\G3CONV\G3CONV\G3CONV\bin\x64\Release\G3CONV.pdb
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\G3CONV\G3CONV\G3CONV\obj\x64\Release\ResolveAssemblyReference.cache
+G:\PROGS\G3CONV\G3CONV\G3CONV\obj\x64\Release\G3CONV.exe
+G:\PROGS\G3CONV\G3CONV\G3CONV\obj\x64\Release\G3CONV.pdb
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\PROJECTS\C#\G3CONV\G3CONV\G3CONV\obj\x64\Release\G3CONV.exe
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\PROJECTS\C#\G3CONV\G3CONV\G3CONV\obj\x64\Release\G3CONV.pdb
