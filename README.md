@@ -11,14 +11,14 @@ Note: ffmpeg.exe executable must be in the same directory as G3CONV.exe (obtain 
 
 **Video format conversion settings:**
 
-Output format: 3GP
-Codec: libx264
-Maximal Resolution: 320x240, 24 fps
-Video Bitrate: variable 125kb/s
-Audio Sample Rate: 22050Hz
-Audio Bitrate: 32kb/s
-Output audio volume is set to half of the input
-Metadata are removed
+- Output format: 3GP
+- Codec: libx264
+- Maximal Resolution: 320x240, 24 fps
+- Video Bitrate: variable 125kb/s
+- Audio Sample Rate: 22050Hz
+- Audio Bitrate: 32kb/s
+- Output audio volume is set to half of the input
+- Metadata are removed
 
 FFMPEG command:
 
