@@ -27,12 +27,12 @@ GWC.WriteLine("    {0} -%ISCUDA% -i \"{1}\" -c:v libx264 -profile:v baseline -fi
 
 **Audio format conversion settings:**
 
-Output format: mp3
-Codec: libmp3lame
-Audio Sample Rate: 22050Hz
-Audio Bitrate: 32kb/s
-Output audio volume is set to half of the input
-Metadata are removed
+- Output format: mp3
+- Codec: libmp3lame
+- Audio Sample Rate: 22050Hz
+- Audio Bitrate: 32kb/s
+- Output audio volume is set to half of the input
+- Metadata are removed
 
 FFMPEG command:
 
@@ -40,9 +40,9 @@ GWC.WriteLine("   {0} -%ISCUDA% -i \"{1}\" -acodec libmp3lame -strict experiment
 
 **Picture format conversion settings:**
 
-Output format: jpg
-Pixel format: argb
-Maximal Resolution: 640x480
+- Output format: jpg
+- Pixel format: argb
+- Maximal Resolution: 640x480
 
 FFMPEG command:
 
