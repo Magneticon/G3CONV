@@ -5,7 +5,11 @@ Converts picture/audio/video format to compatible formats used in 3G phones (i.e
 
 Program works in Windows 2000 and newer. Requires .NET framework 3.5
 
-Note: ffmpeg.exe executable must be in the same directory as G3CONV.exe (obtain the FFMPEG binary from the ffmpeg project). And input files in non-English characters are not supported by the program.
+Note: ffmpeg.exe executable must be in the same directory as G3CONV.exe (obtain the FFMPEG binary from the ffmpeg project). And input files in non-English characters are not supported by the program (you can convert them first by using UNI2C437 program).
+
+<img width="1687" height="964" alt="G3" src="https://github.com/user-attachments/assets/78b998ec-dabc-4a08-96e8-cc939bebaaab" />
+
+**Creating backup of your multimedia files prior converting is highly encouraged, as they might be overwritten/renamed/damaged during the conversion process.**
 
 ## Detailed information:
 
